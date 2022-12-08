@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.satyamipl.ipl2022teamsquads">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.IPL2022TEAMSQUADS">
+        <activity
+            android:name="com.satyamipl.ipl2022teamsquads.MainActivity16"
+            android:exported="true" />
+        <activity
+            android:name="com.satyamipl.ipl2022teamsquads.MainActivity15"
+            android:exported="true" />
+        <activity
+            android:name="com.satyamipl.ipl2022teamsquads.MainActivity14"
+            android:exported="true" />
+        <activity
+            android:name="com.satyamipl.ipl2022teamsquads.MainActivity13"
+            android:exported="true" />
+        <activity
+            android:name="com.satyamipl.ipl2022teamsquads.MainActivity12"
+            android:exported="true" />
+        <activity
+            android:name="com.satyamipl.ipl2022teamsquads.MainActivity11"
+            android:exported="true" />
+        <activity
+            android:name="com.satyamipl.ipl2022teamsquads.MainActivity10"
+            android:exported="true" />
+        <activity
+            android:name="com.satyamipl.ipl2022teamsquads.MainActivity9"
+            android:exported="true" />
+        <activity
+            android:name="com.satyamipl.ipl2022teamsquads.MainActivity8"
+            android:exported="true" />
+        <activity
+            android:name="com.satyamipl.ipl2022teamsquads.MainActivity7"
+            android:exported="true" />
+        <activity
+            android:name="com.satyamipl.ipl2022teamsquads.MainActivity6"
+            android:exported="true" />
+        <activity
+            android:name="com.satyamipl.ipl2022teamsquads.MainActivity4"
+            android:exported="true" />
+        <activity
+            android:name="com.satyamipl.ipl2022teamsquads.MainActivity3"
+            android:exported="true" />
+        <activity
+            android:name="com.satyamipl.ipl2022teamsquads.MainActivity2"
+            android:exported="true" />
+        <activity
+            android:name="com.satyamipl.ipl2022teamsquads.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
